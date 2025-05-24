@@ -247,7 +247,7 @@ Explore my complete data science portfolio at [mohitpammu.github.io/Projects](ht
 
 ## Acknowledgments
 
-- MIT Applied Data Science Program
+- MIT Professional Education Applied Data Science Program
 - The creators of the facial emotion datasets
 - Contributors to TensorFlow and Keras frameworks
 
