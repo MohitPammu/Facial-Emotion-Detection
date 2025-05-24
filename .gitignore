@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Training artifacts
+logs/
+tensorboard_logs/
+training_logs/
+
+# Image processing temporary files
+*.png~
+*.jpg~
+*.jpeg~
