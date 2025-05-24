@@ -196,7 +196,7 @@ jupyter notebook Facial-Emotion-Detection.ipynb
 ```python
 # Load the trained model for inference
 from tensorflow.keras.models import load_model
-model = load_model('models/best_emotion_model.h5')
+model = load_model('models/model_3.keras')
 
 # Predict emotions on new images
 predictions = model.predict(new_images)
