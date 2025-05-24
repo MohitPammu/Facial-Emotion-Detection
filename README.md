@@ -18,8 +18,8 @@ Facial-Emotion-Detection/
 ├── models/                                 # Trained models and architecture files
 ├── requirements.txt                        # Project dependencies
 ├── README.md                              # Project documentation
-├── report.pdf                             # Detailed technical report
-└── presentation_slides.pdf                # Project presentation
+├── report.pdf                                   # Detailed technical report
+└── Facial_Emotion_Detection_Slide_Deck.pdf      # Project presentation
 ```
 
 ## Business Impact
