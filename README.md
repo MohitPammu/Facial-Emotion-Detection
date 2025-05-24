@@ -17,8 +17,8 @@ Facial-Emotion-Detection/
 ├── Facial-Emotion-Detection.html           # HTML version of notebook
 ├── models/                                 # Trained models and architecture files
 ├── requirements.txt                        # Project dependencies
-├── README.md                              # Project documentation
-├── report.pdf                                   # Detailed technical report
+├── README.md                               # Project documentation
+├── Facial Emotion Detection Report.pdf      # Detailed technical report
 └── Facial_Emotion_Detection_Slide_Deck.pdf      # Project presentation
 ```
 
