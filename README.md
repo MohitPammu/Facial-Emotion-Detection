@@ -238,7 +238,7 @@ This project was developed as part of the MIT Professional Education Applied Dat
 
 ## Portfolio
 
-Explore my complete data science portfolio at [mohitpammu.github.io/Projects](https://mohitpammu.github.io/Projects/)
+Explore my complete data science portfolio at [Portfolio Website](https://mohitpammu.github.io/)
 
 ## Connect
 
